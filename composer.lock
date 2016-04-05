@@ -55,12 +55,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "6aac6a0a931ad06780fa7c574f27178d48109ec7"
+                "reference": "1cf7cc4b89d5e8549bbb7d6ab1de75da13d27988"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/6aac6a0a931ad06780fa7c574f27178d48109ec7",
-                "reference": "6aac6a0a931ad06780fa7c574f27178d48109ec7",
+                "url": "https://api.github.com/repos/composer/installers/zipball/1cf7cc4b89d5e8549bbb7d6ab1de75da13d27988",
+                "reference": "1cf7cc4b89d5e8549bbb7d6ab1de75da13d27988",
                 "shasum": ""
             },
             "require": {
@@ -82,8 +82,8 @@
                 }
             },
             "autoload": {
-                "psr-0": {
-                    "Composer\\Installers\\": "src/"
+                "psr-4": {
+                    "Composer\\Installers\\": "src/Composer/Installers"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -103,6 +103,7 @@
                 "Craft",
                 "Dolibarr",
                 "Hurad",
+                "ImageCMS",
                 "MODX Evo",
                 "Mautic",
                 "OXID",
@@ -146,7 +147,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2016-03-23 16:25:33"
+            "time": "2016-04-05 11:42:46"
         },
         {
             "name": "jonom/focuspoint",
@@ -1452,12 +1453,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/UndefinedOffset/SortableGridField.git",
-                "reference": "62a744d48f933c522ca5914bbae548f05a0870e7"
+                "reference": "fc2e8e5538198ce94fff0efd1a5564d0ce726dd3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/UndefinedOffset/SortableGridField/zipball/62a744d48f933c522ca5914bbae548f05a0870e7",
-                "reference": "62a744d48f933c522ca5914bbae548f05a0870e7",
+                "url": "https://api.github.com/repos/UndefinedOffset/SortableGridField/zipball/fc2e8e5538198ce94fff0efd1a5564d0ce726dd3",
+                "reference": "fc2e8e5538198ce94fff0efd1a5564d0ce726dd3",
                 "shasum": ""
             },
             "require": {
@@ -1484,7 +1485,7 @@
                 "gridfield",
                 "silverstripe"
             ],
-            "time": "2016-03-23 23:00:22"
+            "time": "2016-04-04 15:32:51"
         }
     ],
     "packages-dev": [],
