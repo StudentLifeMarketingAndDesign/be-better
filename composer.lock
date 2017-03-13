@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d47e6554d17a2626cd514787781c2d94",
-    "content-hash": "cc9e129045605297975d1630a3f2ae6b",
+    "hash": "e42b1d80102bc9922430b3ea3096f10f",
+    "content-hash": "bb5fb7a9994e75dfa03202541135895e",
     "packages": [
         {
             "name": "colymba/gridfield-bulk-editing-tools",
@@ -348,16 +348,16 @@
         },
         {
             "name": "md/division-project",
-            "version": "3.4.x-dev",
+            "version": "1.3.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "a23f9c8d77c51e6d2e2aadb8381f2d745079cebe"
+                "reference": "eb8b2d7767553f0059698b49aaa4020718c39731"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/a23f9c8d77c51e6d2e2aadb8381f2d745079cebe",
-                "reference": "a23f9c8d77c51e6d2e2aadb8381f2d745079cebe",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/eb8b2d7767553f0059698b49aaa4020718c39731",
+                "reference": "eb8b2d7767553f0059698b49aaa4020718c39731",
                 "shasum": ""
             },
             "require": {
@@ -395,10 +395,10 @@
             "type": "silverstripe-module",
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/3.4.x",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/1.3.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-03-13 15:15:47"
+            "time": "2017-03-13 16:18:54"
         },
         {
             "name": "md/rss-display",
