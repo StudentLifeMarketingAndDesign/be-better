@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "855b3a5942eda0ecf62ef88a8bdd3a45",
+    "content-hash": "fd67527c4c7e53bf80d49f0ce0e2146b",
     "packages": [
         {
             "name": "bramus/ansi-php",
@@ -1231,6 +1231,33 @@
             "time": "2019-06-11T18:38:10+00:00"
         },
         {
+            "name": "md/deploy-helper",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/StudentLifeMarketingAndDesign/deploy-helper.git",
+                "reference": "921e97e84e7cd178937e4d92ee0c9ae4cd1aba46"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/deploy-helper/zipball/921e97e84e7cd178937e4d92ee0c9ae4cd1aba46",
+                "reference": "921e97e84e7cd178937e4d92ee0c9ae4cd1aba46",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2",
+                "silverstripe/cms": "4.*",
+                "silverstripe/framework": "4.*"
+            },
+            "type": "silverstripe-vendormodule",
+            "description": "Deployment Helper",
+            "support": {
+                "source": "https://github.com/StudentLifeMarketingAndDesign/deploy-helper/tree/master",
+                "issues": "https://github.com/StudentLifeMarketingAndDesign/deploy-helper/issues"
+            },
+            "time": "2019-08-08T18:47:20+00:00"
+        },
+        {
             "name": "md/division-analytics",
             "version": "1.2.x-dev",
             "source": {
@@ -1263,12 +1290,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "886161bd424df756d8a45f4c0b5c46f9a538c163"
+                "reference": "9f8966867f4181c617d066574a696ec5ec30bab6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/886161bd424df756d8a45f4c0b5c46f9a538c163",
-                "reference": "886161bd424df756d8a45f4c0b5c46f9a538c163",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/9f8966867f4181c617d066574a696ec5ec30bab6",
+                "reference": "9f8966867f4181c617d066574a696ec5ec30bab6",
                 "shasum": ""
             },
             "require": {
@@ -1280,6 +1307,7 @@
                 "jonom/focuspoint": "*",
                 "jonom/silverstripe-betternavigator": "*",
                 "md/ac-json-events": "dev-ss4.x-ui",
+                "md/deploy-helper": "*",
                 "md/division-analytics": "1.2.x",
                 "md/saml": "dev-md",
                 "md/silverstripe-maintenance-mode": "dev-master",
@@ -1318,7 +1346,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/ss4.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2019-08-07T15:43:14+00:00"
+            "time": "2019-08-08T18:49:24+00:00"
         },
         {
             "name": "md/saml",
