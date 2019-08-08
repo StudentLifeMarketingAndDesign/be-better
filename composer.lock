@@ -1236,12 +1236,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/deploy-helper.git",
-                "reference": "03aa7fe215680cdb372c27d84c7bca3ba132a244"
+                "reference": "e9468da14e66b095923265d00fc59d4e39e77a18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/deploy-helper/zipball/03aa7fe215680cdb372c27d84c7bca3ba132a244",
-                "reference": "03aa7fe215680cdb372c27d84c7bca3ba132a244",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/deploy-helper/zipball/e9468da14e66b095923265d00fc59d4e39e77a18",
+                "reference": "e9468da14e66b095923265d00fc59d4e39e77a18",
                 "shasum": ""
             },
             "require": {
@@ -1255,7 +1255,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/deploy-helper/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/deploy-helper/issues"
             },
-            "time": "2019-08-08T19:29:05+00:00"
+            "time": "2019-08-08T20:45:47+00:00"
         },
         {
             "name": "md/division-analytics",
