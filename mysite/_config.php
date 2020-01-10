@@ -10,7 +10,3 @@ $validator = new PasswordValidator();
 $validator->minLength(8);
 $validator->checkHistoricalPasswords(6);
 Member::set_password_validator($validator);
-
-if(Director::isLive()) {
-	Director::forceSSL();
-}
