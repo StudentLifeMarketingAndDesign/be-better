@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3d4f36e68125422bfb5d7967b8527893",
+    "content-hash": "104883ee855e1edeaf38f03cb117d266",
     "packages": [
         {
             "name": "bramus/ansi-php",
@@ -1333,16 +1333,16 @@
         },
         {
             "name": "md/division-project",
-            "version": "2.x-dev",
+            "version": "dev-2-uiowabar-2.x",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "b3c408ac0c70a794620303b365a8d866cab51eea"
+                "reference": "c556c2603823451d54155869be175e4330eecbaa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/b3c408ac0c70a794620303b365a8d866cab51eea",
-                "reference": "b3c408ac0c70a794620303b365a8d866cab51eea",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/c556c2603823451d54155869be175e4330eecbaa",
+                "reference": "c556c2603823451d54155869be175e4330eecbaa",
                 "shasum": ""
             },
             "require": {
@@ -1358,7 +1358,7 @@
                 "md/division-analytics": "1.2.x",
                 "md/saml": "dev-md",
                 "md/silverstripe-maintenance-mode": "dev-master",
-                "md/uiowa-bar": "1.2.x",
+                "md/uiowa-bar": "2.x",
                 "php": ">=5.5",
                 "quamsta/silverstripe-api-cacher": "1.*",
                 "silverstripe-australia/gridfieldextensions": "*",
@@ -1387,10 +1387,10 @@
             },
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2-uiowabar-2.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-05-19T18:35:34+00:00"
+            "time": "2020-05-27T19:49:07+00:00"
         },
         {
             "name": "md/saml",
@@ -1526,16 +1526,16 @@
         },
         {
             "name": "md/uiowa-bar",
-            "version": "1.2.x-dev",
+            "version": "2.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/uiowa-bar.git",
-                "reference": "cf1ada16ac84a8c78d82651cbdf51114cfd79708"
+                "reference": "282c838bb865f710d0f27ef6dc9f9bc5f53b8f3c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/uiowa-bar/zipball/cf1ada16ac84a8c78d82651cbdf51114cfd79708",
-                "reference": "cf1ada16ac84a8c78d82651cbdf51114cfd79708",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/uiowa-bar/zipball/282c838bb865f710d0f27ef6dc9f9bc5f53b8f3c",
+                "reference": "282c838bb865f710d0f27ef6dc9f9bc5f53b8f3c",
                 "shasum": ""
             },
             "require": {
@@ -1546,10 +1546,10 @@
             "type": "silverstripe-vendormodule",
             "description": "The University of Iowa Bar",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/uiowa-bar/tree/1.2.x",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/uiowa-bar/tree/2.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/uiowa-bar/issues"
             },
-            "time": "2020-03-18T16:09:30+00:00"
+            "time": "2020-05-27T19:49:30+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -6225,6 +6225,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
+        "md/division-project": 20,
         "silverstripe/mathspamprotection": 20
     },
     "prefer-stable": true,
