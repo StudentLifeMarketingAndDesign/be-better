@@ -1337,12 +1337,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "161ec4d0c8b5f01c9c238c5fcacc7b64697f6eb7"
+                "reference": "72aa964aab61f9851b6c44584c561fd6aeffb85d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/161ec4d0c8b5f01c9c238c5fcacc7b64697f6eb7",
-                "reference": "161ec4d0c8b5f01c9c238c5fcacc7b64697f6eb7",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/72aa964aab61f9851b6c44584c561fd6aeffb85d",
+                "reference": "72aa964aab61f9851b6c44584c561fd6aeffb85d",
                 "shasum": ""
             },
             "require": {
@@ -1379,7 +1379,7 @@
             "extra": {
                 "expose": [
                     "client",
-                    "src/favicons",
+                    "src/favicons-block",
                     "src/images",
                     "cms-icons",
                     "css"
@@ -1390,7 +1390,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2-uiowabar-2.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-05-28T19:00:39+00:00"
+            "time": "2020-05-28T20:21:50+00:00"
         },
         {
             "name": "md/saml",
